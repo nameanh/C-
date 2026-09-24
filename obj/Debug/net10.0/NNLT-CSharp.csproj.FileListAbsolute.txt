@@ -40,3 +40,4 @@ C:\Users\duong\Documents\SGU26K2_NNLTCSharp_S6_DCT124C4_0709-main\obj\Debug\net1
 C:\Users\duong\Documents\SGU26K2_NNLTCSharp_S6_DCT124C4_0709-main\obj\Debug\net10.0\NNLT-CSharp.pdb
 C:\Users\duong\Documents\SGU26K2_NNLTCSharp_S6_DCT124C4_0709-main\obj\Debug\net10.0\NNLT-CSharp.genruntimeconfig.cache
 C:\Users\duong\Documents\SGU26K2_NNLTCSharp_S6_DCT124C4_0709-main\obj\Debug\net10.0\ref\NNLT-CSharp.dll
+C:\Users\duong\Documents\SGU26K2_NNLTCSharp_S6_DCT124C4_0709-main\obj\Debug\net10.0\NNLT-CSharp.sourcelink.json

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\duong\\Documents\\C#\\NNLT-CSharp.csproj": {}
+    "C:\\Users\\duong\\Documents\\C#\\Lab02\\Lab02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\duong\\Documents\\C#\\NNLT-CSharp.csproj": {
+    "C:\\Users\\duong\\Documents\\C#\\Lab02\\Lab02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\duong\\Documents\\C#\\NNLT-CSharp.csproj",
-        "projectName": "NNLT-CSharp",
-        "projectPath": "C:\\Users\\duong\\Documents\\C#\\NNLT-CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\duong\\Documents\\C#\\Lab02\\Lab02.csproj",
+        "projectName": "Lab02",
+        "projectPath": "C:\\Users\\duong\\Documents\\C#\\Lab02\\Lab02.csproj",
         "packagesPath": "C:\\Users\\duong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\duong\\Documents\\C#\\obj\\",
+        "outputPath": "C:\\Users\\duong\\Documents\\C#\\Lab02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\duong\\AppData\\Roaming\\NuGet\\NuGet.Config"
