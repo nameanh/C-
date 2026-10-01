@@ -1,0 +1,30 @@
+C:\Users\Powboii\OneDrive\Desktop\c# class\NNLTSharpC4\Lab02_ThucHanh\bin\Debug\net10.0\Lab02_ThucHanh.exe
+C:\Users\Powboii\OneDrive\Desktop\c# class\NNLTSharpC4\Lab02_ThucHanh\bin\Debug\net10.0\Lab02_ThucHanh.deps.json
+C:\Users\Powboii\OneDrive\Desktop\c# class\NNLTSharpC4\Lab02_ThucHanh\bin\Debug\net10.0\Lab02_ThucHanh.runtimeconfig.json
+C:\Users\Powboii\OneDrive\Desktop\c# class\NNLTSharpC4\Lab02_ThucHanh\bin\Debug\net10.0\Lab02_ThucHanh.dll
+C:\Users\Powboii\OneDrive\Desktop\c# class\NNLTSharpC4\Lab02_ThucHanh\bin\Debug\net10.0\Lab02_ThucHanh.pdb
+C:\Users\Powboii\OneDrive\Desktop\c# class\NNLTSharpC4\Lab02_ThucHanh\obj\Debug\net10.0\Lab02_ThucHanh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Powboii\OneDrive\Desktop\c# class\NNLTSharpC4\Lab02_ThucHanh\obj\Debug\net10.0\Lab02_ThucHanh.AssemblyInfoInputs.cache
+C:\Users\Powboii\OneDrive\Desktop\c# class\NNLTSharpC4\Lab02_ThucHanh\obj\Debug\net10.0\Lab02_ThucHanh.AssemblyInfo.cs
+C:\Users\Powboii\OneDrive\Desktop\c# class\NNLTSharpC4\Lab02_ThucHanh\obj\Debug\net10.0\Lab02_ThucHanh.csproj.CoreCompileInputs.cache
+C:\Users\Powboii\OneDrive\Desktop\c# class\NNLTSharpC4\Lab02_ThucHanh\obj\Debug\net10.0\Lab02_ThucHanh.sourcelink.json
+C:\Users\Powboii\OneDrive\Desktop\c# class\NNLTSharpC4\Lab02_ThucHanh\obj\Debug\net10.0\Lab02_ThucHanh.dll
+C:\Users\Powboii\OneDrive\Desktop\c# class\NNLTSharpC4\Lab02_ThucHanh\obj\Debug\net10.0\refint\Lab02_ThucHanh.dll
+C:\Users\Powboii\OneDrive\Desktop\c# class\NNLTSharpC4\Lab02_ThucHanh\obj\Debug\net10.0\Lab02_ThucHanh.pdb
+C:\Users\Powboii\OneDrive\Desktop\c# class\NNLTSharpC4\Lab02_ThucHanh\obj\Debug\net10.0\Lab02_ThucHanh.genruntimeconfig.cache
+C:\Users\Powboii\OneDrive\Desktop\c# class\NNLTSharpC4\Lab02_ThucHanh\obj\Debug\net10.0\ref\Lab02_ThucHanh.dll
+C:\Users\duong\Documents\C#\Lab02_ThucHanh\bin\Debug\net10.0\Lab02_ThucHanh.exe
+C:\Users\duong\Documents\C#\Lab02_ThucHanh\bin\Debug\net10.0\Lab02_ThucHanh.deps.json
+C:\Users\duong\Documents\C#\Lab02_ThucHanh\bin\Debug\net10.0\Lab02_ThucHanh.runtimeconfig.json
+C:\Users\duong\Documents\C#\Lab02_ThucHanh\bin\Debug\net10.0\Lab02_ThucHanh.dll
+C:\Users\duong\Documents\C#\Lab02_ThucHanh\bin\Debug\net10.0\Lab02_ThucHanh.pdb
+C:\Users\duong\Documents\C#\Lab02_ThucHanh\obj\Debug\net10.0\Lab02_ThucHanh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duong\Documents\C#\Lab02_ThucHanh\obj\Debug\net10.0\Lab02_ThucHanh.AssemblyInfoInputs.cache
+C:\Users\duong\Documents\C#\Lab02_ThucHanh\obj\Debug\net10.0\Lab02_ThucHanh.AssemblyInfo.cs
+C:\Users\duong\Documents\C#\Lab02_ThucHanh\obj\Debug\net10.0\Lab02_ThucHanh.csproj.CoreCompileInputs.cache
+C:\Users\duong\Documents\C#\Lab02_ThucHanh\obj\Debug\net10.0\Lab02_ThucHanh.sourcelink.json
+C:\Users\duong\Documents\C#\Lab02_ThucHanh\obj\Debug\net10.0\Lab02_ThucHanh.dll
+C:\Users\duong\Documents\C#\Lab02_ThucHanh\obj\Debug\net10.0\refint\Lab02_ThucHanh.dll
+C:\Users\duong\Documents\C#\Lab02_ThucHanh\obj\Debug\net10.0\Lab02_ThucHanh.pdb
+C:\Users\duong\Documents\C#\Lab02_ThucHanh\obj\Debug\net10.0\Lab02_ThucHanh.genruntimeconfig.cache
+C:\Users\duong\Documents\C#\Lab02_ThucHanh\obj\Debug\net10.0\ref\Lab02_ThucHanh.dll
